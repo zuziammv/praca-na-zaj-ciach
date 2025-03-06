@@ -177,4 +177,4 @@ Warning message:
 In wordcloud(words = frequent_terms$word, freq = frequent_terms$n,  :
   president could not be fit on page. It will not be plotted.
 > 
-> Różnią się, w pierwswzym Biden mówi o obywatelach, a  w drugim o kwestiach finansowych i roli prezydenta
+> #Różnią się, w pierwswzym Biden mówi o obywatelach, a  w drugim o kwestiach finansowych i roli prezydenta
